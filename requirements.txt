@@ -1,2 +1,5 @@
 joblib
 plotly
+scikit-learn
+numpy
+pandas
